@@ -52,7 +52,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72938</dc:source>
-		<dc:source>https://archive.org/details/tarzan-lord-of-the-jungle//</dc:source>
+		<dc:source>https://archive.org/details/tarzan-lord-of-the-jungle</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan_Lord_of_the_Jungle</meta>
